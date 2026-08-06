@@ -1,0 +1,84 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Scopus Profile</title>
+<style>
+  body { margin:0; padding:16px; font-family:Arial,Helvetica,sans-serif; }
+  .wrap { max-width:900px; margin:0 auto; }
+  .metrics { display:flex; gap:16px; flex-wrap:wrap; margin-bottom:20px; }
+  .card { flex:1; min-width:110px; background:#f7f9fb; border:1px solid #e1e6ea;
+          border-radius:8px; padding:12px 16px; text-align:center; }
+  .card .value { font-size:24px; font-weight:700; color:#1a2b3c; }
+  .card .label { font-size:12px; color:#5b6b7c; text-transform:uppercase; letter-spacing:.04em; }
+  table { width:100%; border-collapse:collapse; font-size:14px; }
+  thead th { text-align:left; color:#5b6b7c; font-size:12px; text-transform:uppercase; padding:6px; }
+  tbody tr { border-bottom:1px solid #e9edf1; }
+  tbody td { padding:8px 6px; vertical-align:top; }
+  td.cites { text-align:right; color:#33475b; white-space:nowrap; }
+  a.title { color:#1a5fb4; text-decoration:none; font-weight:600; }
+  .venue { font-size:12px; color:#5b6b7c; }
+  .license { font-family:Arial,sans-serif; font-size:11px; color:#8a97a3; max-width:900px;
+             margin:20px auto 0; border-top:1px solid #e9edf1; padding-top:10px; }
+  .error { color:#b00; }
+</style>
+</head>
+<body>
+<div class="wrap" id="app">Loading&hellip;</div>
+
+<script>
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+function metricCard(label, value) {
+  return '<div class="card"><div class="value">' + escapeHtml(value) +
+         '</div><div class="label">' + escapeHtml(label) + '</div></div>';
+}
+
+function renderSummary(s) {
+  return '<div class="metrics">' +
+    metricCard('h-index', s.hIndex) +
+    metricCard('Citations', s.citationCount) +
+    metricCard('Documents', s.documentCount) +
+    '</div>';
+}
+
+function renderPublications(pubs) {
+  if (!pubs.length) return '<p>No publications found.</p>';
+  const rows = pubs.map((p) => {
+    const year = p.date ? p.date.slice(0, 4) : '';
+    const href = p.doi ? 'https://doi.org/' + p.doi : '#';
+    return '<tr><td>' +
+      '<a class="title" href="' + escapeHtml(href) + '" target="_blank">' + escapeHtml(p.title) + '</a>'
+ +
+      '<div class="venue">' + escapeHtml(p.venue) + (year ? ' &middot; ' + year : '') + '</div>' +
+      '</td><td class="cites">' + escapeHtml(p.citedBy) + ' cites</td></tr>';
+  }).join('');
+  return '<table><thead><tr><th>Publication</th><th style="text-align:right;">Citations</th></tr></thead
+>' +
+    '<tbody>' + rows + '</tbody></table>';
+}
+
+fetch('scopus-data.json?t=' + Date.now())
+  .then((r) => {
+    if (!r.ok) throw new Error('Data fetch returned ' + r.status);
+    return r.json();
+  })
+  .then((data) => {
+    document.getElementById('app').innerHTML =
+      renderSummary(data.summary) + renderPublications(data.publications) +
+      '<p class="license">' + escapeHtml(data.license || '') + '</p>';
+  })
+  .catch((err) => {
+    document.getElementById('app').innerHTML =
+      '<p class="error">Could not load Scopus data right now: ' + escapeHtml(err.message) + '</p>';
+  });
+</script>
+</body>
+</html>
