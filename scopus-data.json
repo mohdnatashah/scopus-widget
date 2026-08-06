@@ -1,0 +1,502 @@
+{
+  "generatedAt": "2026-08-06T15:18:18.060Z",
+  "authorId": "57226822517",
+  "summary": {
+    "hIndex": 14,
+    "citationCount": 584,
+    "documentCount": 70
+  },
+  "publications": [
+    {
+      "title": "Enhancing Electron Transport in Silicon Self-Switching Devices: A Study on Triangular Barrier-Induced Ballistic Effects",
+      "venue": "International Journal of Nanoelectronics and Materials",
+      "date": "2026-06-01",
+      "citedBy": 0,
+      "doi": "10.58915/ijneam.v19iJune.3381"
+    },
+    {
+      "title": "Computational Analysis on The Influence of Heterojunction Geometries to Electrical Performance of Photovoltaic Cells",
+      "venue": "International Journal of Nanoelectronics and Materials",
+      "date": "2026-06-01",
+      "citedBy": 0,
+      "doi": "10.58915/ijneam.v19iJune.3384"
+    },
+    {
+      "title": "Enhanced performance of DSSCs via layered co-sensitization using anthocyanin dyes from Oxalis Triangularis and Mulberry",
+      "venue": "Proceedings of SPIE the International Society for Optical Engineering",
+      "date": "2026-01-22",
+      "citedBy": 0,
+      "doi": "10.1117/12.3097554"
+    },
+    {
+      "title": "Effect of acidified solvents on Roselle anthocyanin as light-harvesting material for DSSCs",
+      "venue": "Proceedings of SPIE the International Society for Optical Engineering",
+      "date": "2026-01-22",
+      "citedBy": 0,
+      "doi": "10.1117/12.3097565"
+    },
+    {
+      "title": "Experimental investigation and predictive modelling of CO2 laser processing of wood-plastic composites (WPCs)",
+      "venue": "Results in Engineering",
+      "date": "2025-09-01",
+      "citedBy": 2,
+      "doi": "10.1016/j.rineng.2025.106708"
+    },
+    {
+      "title": "Optimization and Validation of CO2 Laser-Machining Parameters for Wood–Plastic Composites (WPCs)",
+      "venue": "Polymers",
+      "date": "2025-08-01",
+      "citedBy": 4,
+      "doi": "10.3390/polym17162216"
+    },
+    {
+      "title": "Temperature-dependent properties of Cu-doped ZnTe thin films deposited on ultra-thin glass substrates via RF magnetron sputtering",
+      "venue": "Journal of Science Advanced Materials and Devices",
+      "date": "2025-03-01",
+      "citedBy": 1,
+      "doi": "10.1016/j.jsamd.2024.100836"
+    },
+    {
+      "title": "The Influence of Laser Cutting Parameters on the Heat-Affected Zone in Fast-Growing Malaysian Wood Species",
+      "venue": "Journal of Manufacturing and Materials Processing",
+      "date": "2025-02-01",
+      "citedBy": 5,
+      "doi": "10.3390/jmmp9020054"
+    },
+    {
+      "title": "Adsorption efficiency and photocatalytic activity of silver sulphide-activated carbon (Ag2S-AC) composites",
+      "venue": "Inorganic Chemistry Communications",
+      "date": "2025-01-01",
+      "citedBy": 7,
+      "doi": "10.1016/j.inoche.2024.113633"
+    },
+    {
+      "title": "RECENT PROGRESS IN THE UTILIZATION OF SILVER NANOPARTICLE AND ITS DERIVATIVES AS PHOTOCATALYST: A MINI BIBLIOMETRIC STUDY",
+      "venue": "Archives of Metallurgy and Materials",
+      "date": "2025-01-01",
+      "citedBy": 0,
+      "doi": "10.24425/amm.2025.153498"
+    },
+    {
+      "title": "Ground Coffee Waste-Derived Activated Carbon: A Sustainable Adsorbent and Photocatalyst for Effective Methylene Blue Dye Degradation",
+      "venue": "International Journal of Nanoelectronics and Materials",
+      "date": "2024-12-01",
+      "citedBy": 1,
+      "doi": "10.58915/ijneam.v17iDecember.1612"
+    },
+    {
+      "title": "Magnetite (Fe3O4)-Activated Carbon Composite from Ground Coffee Waste for the Removal of Copper Ions (Cu2+) from Solution",
+      "venue": "International Journal of Nanoelectronics and Materials",
+      "date": "2024-12-01",
+      "citedBy": 3,
+      "doi": "10.58915/ijneam.v17iDecember.1618"
+    },
+    {
+      "title": "An experimental investigation of spin-on doping optimization for enhanced electrical characteristics in silicon homojunction solar cells: Proof of concept",
+      "venue": "Heliyon",
+      "date": "2024-06-15",
+      "citedBy": 5,
+      "doi": "10.1016/j.heliyon.2024.e31193"
+    },
+    {
+      "title": "Low-cost tilt monitoring system for spin coater calibration",
+      "venue": "Aip Conference Proceedings",
+      "date": "2024-02-08",
+      "citedBy": 0,
+      "doi": "10.1063/5.0192302"
+    },
+    {
+      "title": "First-principles investigation on the impact of copper concentration on zinc telluride as the back contact for cadmium telluride solar cells",
+      "venue": "Applied Physics A Materials Science and Processing",
+      "date": "2024-02-01",
+      "citedBy": 4,
+      "doi": "10.1007/s00339-024-07286-0"
+    },
+    {
+      "title": "Copper doping effect in the back surface field layer of CdTe thin film solar cells",
+      "venue": "Alexandria Engineering Journal",
+      "date": "2024-02-01",
+      "citedBy": 14,
+      "doi": "10.1016/j.aej.2024.01.020"
+    },
+    {
+      "title": "Visible Light-Assisted Charge Extraction in High-Band-Gap SrTiO3 through the Integration of a Triplet Sensitizer-Emitter Thin Film",
+      "venue": "ACS Applied Energy Materials",
+      "date": "2024-01-22",
+      "citedBy": 2,
+      "doi": "10.1021/acsaem.3c02971"
+    },
+    {
+      "title": "Integrating local and global information to identify influential nodes in complex networks",
+      "venue": "Scientific Reports",
+      "date": "2023-12-01",
+      "citedBy": 48,
+      "doi": "10.1038/s41598-023-37570-7"
+    },
+    {
+      "title": "A Study on Electrical Performance of SiC-based Self-switching Diode (SSD) as a High Voltage High Power Device",
+      "venue": "International Journal of Nanoelectronics and Materials",
+      "date": "2023-12-01",
+      "citedBy": 0,
+      "doi": "10.58915/ijneam.v16iDECEMBER.397"
+    },
+    {
+      "title": "Synergistic effect of agarose biopolymer gel electrolyte with modified TiO2 for low-cost electrochemical device applications",
+      "venue": "Polymer Bulletin",
+      "date": "2023-09-01",
+      "citedBy": 8,
+      "doi": "10.1007/s00289-022-04524-4"
+    },
+    {
+      "title": "Elucidating the Effects of Interconnecting Layer Thickness and Bandgap Variations on the Performance of Monolithic Perovskite/Silicon Tandem Solar Cell by wxAMPS",
+      "venue": "Materials",
+      "date": "2023-06-01",
+      "citedBy": 8,
+      "doi": "10.3390/ma16114106"
+    },
+    {
+      "title": "Recent Advances in Synthesis of Graphite from Agricultural Bio-Waste Material: A Review",
+      "venue": "Materials",
+      "date": "2023-05-01",
+      "citedBy": 64,
+      "doi": "10.3390/ma16093601"
+    },
+    {
+      "title": "Controlling the Layer Thickness of Zinc Oxide Photoanode and the Dye-Soaking Time for an Optimal-Efficiency Dye-Sensitized Solar Cell",
+      "venue": "Coatings",
+      "date": "2023-01-01",
+      "citedBy": 13,
+      "doi": "10.3390/coatings13010020"
+    },
+    {
+      "title": "Near-Infrared (NIR) Silver Sulfide (Ag2S) Semiconductor Photocatalyst Film for Degradation of Methylene Blue Solution",
+      "venue": "Materials",
+      "date": "2023-01-01",
+      "citedBy": 18,
+      "doi": "10.3390/ma16010437"
+    },
+    {
+      "title": "The Effect of Spinacia oleracea Dye Absorption Time on ZnO-based Dye-Sensitized Solar Cells’ Electrical Performance",
+      "venue": "International Journal of Nanoelectronics and Materials",
+      "date": "2022-12-01",
+      "citedBy": 0,
+      "doi": ""
+    },
+    {
+      "title": "Electrical Performance of Curcuma longa Extract Dye using SnO2-Based Photoanode Dye-Sensitized Solar Cell",
+      "venue": "International Journal of Nanoelectronics and Materials",
+      "date": "2022-12-01",
+      "citedBy": 1,
+      "doi": ""
+    },
+    {
+      "title": "Enhancement of Power Conversion Efficiency with Zinc Oxide as Photoanode and Cyanococcus, Punica granatum L., and Vitis vinifera as Natural Fruit Dyes for Dye-Sensitized Solar Cells",
+      "venue": "Coatings",
+      "date": "2022-11-01",
+      "citedBy": 11,
+      "doi": "10.3390/coatings12111781"
+    },
+    {
+      "title": "Comparative analysis on virtual private network in the internet of things gateways",
+      "venue": "Indonesian Journal of Electrical Engineering and Computer Science",
+      "date": "2022-10-01",
+      "citedBy": 7,
+      "doi": "10.11591/ijeecs.v28.i1.pp488-497"
+    },
+    {
+      "title": "Modeling Physical Interaction and Understanding Peer Group Learning Dynamics: Graph Analytics Approach Perspective",
+      "venue": "Mathematics",
+      "date": "2022-05-01",
+      "citedBy": 3,
+      "doi": "10.3390/math10091430"
+    },
+    {
+      "title": "Analysis of Symmetric Two and Four-coil Magnetic Resonant Coupling Wireless Power Transfer",
+      "venue": "Applied Computational Electromagnetics Society Journal",
+      "date": "2022-04-01",
+      "citedBy": 5,
+      "doi": "10.13052/2022.ACES.J.370415"
+    },
+    {
+      "title": "Synthesis Methods of Tin Oxide as Photoanode for Dye-Sensitized Solar Cell Performance: A Short Review",
+      "venue": "International Journal of Nanoelectronics and Materials",
+      "date": "2021-12-01",
+      "citedBy": 3,
+      "doi": ""
+    },
+    {
+      "title": "Charge Recombination in Zinc Oxide-Based Dye-Sensitized Solar Cell: A Mini Review",
+      "venue": "International Journal of Nanoelectronics and Materials",
+      "date": "2021-12-01",
+      "citedBy": 14,
+      "doi": ""
+    },
+    {
+      "title": "Modification of Photoanode Surface Structure via Image Analysis on Organic Polymer Material based for Dye-Sensitized Solar Cell (DSSC) Applications",
+      "venue": "International Journal of Nanoelectronics and Materials",
+      "date": "2021-12-01",
+      "citedBy": 0,
+      "doi": ""
+    },
+    {
+      "title": "Magnetic-Based Coreshell Nanoparticles as Potential Adsorbents for the Removal of Cu2+ under Ultraviolet (UV) Light",
+      "venue": "Journal of Physics Conference Series",
+      "date": "2021-11-12",
+      "citedBy": 0,
+      "doi": "10.1088/1742-6596/2080/1/012032"
+    },
+    {
+      "title": "Advanced UI test automation (AUTA) for BIOS validation using OpenCV and OCR",
+      "venue": "Indonesian Journal of Electrical Engineering and Computer Science",
+      "date": "2021-09-01",
+      "citedBy": 0,
+      "doi": "10.11591/ijeecs.v23.i3.pp1350-1356"
+    },
+    {
+      "title": "Life cycle assessment (Lca) of particleboard: Investigation of the environmental parameters",
+      "venue": "Polymers",
+      "date": "2021-07-01",
+      "citedBy": 17,
+      "doi": "10.3390/polym13132043"
+    },
+    {
+      "title": "A SmartPLS visiting to knowledge retention: A study among SMEs in Peninsular Malaysia",
+      "venue": "Journal of Educational and Social Research",
+      "date": "2021-07-01",
+      "citedBy": 4,
+      "doi": "10.36941/jesr-2021-0079"
+    },
+    {
+      "title": "Geostatistics application for sand mapping development in hilly area of Sabah, Malaysia",
+      "venue": "Aip Conference Proceedings",
+      "date": "2021-05-03",
+      "citedBy": 0,
+      "doi": "10.1063/5.0044592"
+    },
+    {
+      "title": "A simple sensor network designed as anti-theft alarm system for copper cables",
+      "venue": "Aip Conference Proceedings",
+      "date": "2021-05-03",
+      "citedBy": 0,
+      "doi": "10.1063/5.0044608"
+    },
+    {
+      "title": "Failure mode and effects analysis (FMEA) of furniture production: A case study in Kelantan state, Malaysia",
+      "venue": "Aip Conference Proceedings",
+      "date": "2021-05-03",
+      "citedBy": 1,
+      "doi": "10.1063/5.0044245"
+    },
+    {
+      "title": "Effect of indium pre-flow on wavelength shift and crystal structure of deep green light emitting diodes",
+      "venue": "Optical Materials Express",
+      "date": "2021-01-01",
+      "citedBy": 7,
+      "doi": "10.1364/OME.413417"
+    },
+    {
+      "title": "Augmentation of the delamination factor in drilling of carbon fibre-reinforced polymer composites (CFRP)",
+      "venue": "Polymers",
+      "date": "2020-11-01",
+      "citedBy": 28,
+      "doi": "10.3390/polym12112461"
+    },
+    {
+      "title": "The effect of ZnO photoanode solution ageing to the performance of dye-sensitized solar cell (DSSC)",
+      "venue": "Aip Conference Proceedings",
+      "date": "2020-01-08",
+      "citedBy": 5,
+      "doi": "10.1063/1.5142140"
+    },
+    {
+      "title": "Effect of thickness and ageing time on optical properties of Zinc oxide film using sol-gel method",
+      "venue": "International Journal of Nanoelectronics and Materials",
+      "date": "2019-03-01",
+      "citedBy": 2,
+      "doi": ""
+    },
+    {
+      "title": "Synthesis of alumina nanoparticles by sol-gel method and their applications in the removal of copper ions (Cu2+) from the solution",
+      "venue": "Iop Conference Series Materials Science and Engineering",
+      "date": "2019-01-01",
+      "citedBy": 42,
+      "doi": "10.1088/1757-899X/701/1/012034"
+    },
+    {
+      "title": "Fabrication and thermoelectric property of nanostructured Si/Cr0.8Mn0.2Si2 eutectic alloy by melt-spinning",
+      "venue": "Materials Research Express",
+      "date": "2019-01-01",
+      "citedBy": 2,
+      "doi": "10.1088/2053-1591/aaee98"
+    },
+    {
+      "title": "Fabrication and thermoelectric property of Bi0.88Sb0.12/InSb eutectic alloy by melt spinning and spark plasma sintering",
+      "venue": "Materials Transactions",
+      "date": "2019-01-01",
+      "citedBy": 5,
+      "doi": "10.2320/matertrans.M2018383"
+    },
+    {
+      "title": "Design of RF to DC conversion circuit for energy harvesting in CMOS 0.13-μm technology",
+      "venue": "Aip Conference Proceedings",
+      "date": "2018-12-06",
+      "citedBy": 9,
+      "doi": "10.1063/1.5080902"
+    },
+    {
+      "title": "Enhancement of Energy Conversion Efficiency for Dye Sensitized Solar Cell Using Zinc Oxide Photoanode",
+      "venue": "Iop Conference Series Materials Science and Engineering",
+      "date": "2018-06-12",
+      "citedBy": 20,
+      "doi": "10.1088/1757-899X/374/1/012048"
+    },
+    {
+      "title": "The Nanometer-Sized Eutectic Structure of Si/CrSi2 Thermoelectric Materials Fabricated by Rapid Solidification",
+      "venue": "Journal of Electronic Materials",
+      "date": "2018-04-01",
+      "citedBy": 21,
+      "doi": "10.1007/s11664-017-6060-1"
+    },
+    {
+      "title": "The effect of temperature on anatase TiO2 photoanode for dye sensitized solar cell",
+      "venue": "Solid State Phenomena",
+      "date": "2018-01-01",
+      "citedBy": 8,
+      "doi": "10.4028/www.scientific.net/SSP.273.146"
+    },
+    {
+      "title": "Smart Rash Driver System via Internet of Things (IoT)",
+      "venue": "Matec Web of Conferences",
+      "date": "2017-12-11",
+      "citedBy": 0,
+      "doi": "10.1051/matecconf/201714001026"
+    },
+    {
+      "title": "Optimization of intrinsic layer thickness, dopant layer thickness and concentration for a-SiC/a-SiGe multilayer solar cell efficiency performance using Silvaco software",
+      "venue": "EPJ Web of Conferences",
+      "date": "2017-11-22",
+      "citedBy": 4,
+      "doi": "10.1051/epjconf/201716201044"
+    },
+    {
+      "title": "Recent improvements on TiO2 and ZnO nanostructure photoanode for dye sensitized solar cells: A brief review",
+      "venue": "EPJ Web of Conferences",
+      "date": "2017-11-22",
+      "citedBy": 20,
+      "doi": "10.1051/epjconf/201716201045"
+    },
+    {
+      "title": "Erratum to: Recent improvements on TiO2 and ZnO nanostructure photoanode for dye sensitized solar cells: A brief review (EPJ Web of Conferences (2017) 162 (01045) DOI: 10.1051/epjconf/201716201045)",
+      "venue": "EPJ Web of Conferences",
+      "date": "2017-11-22",
+      "citedBy": 0,
+      "doi": "10.1051/epjconf/201716201087"
+    },
+    {
+      "title": "Design of anti-theft/cable cut real time alert system for copper cable using microcontroller and GSM technology",
+      "venue": "Aip Conference Proceedings",
+      "date": "2017-09-26",
+      "citedBy": 3,
+      "doi": "10.1063/1.5002481"
+    },
+    {
+      "title": "Short review: Natural pigments photosensitizer for dye-sensitized solar cell (DSSC)",
+      "venue": "IEEE Student Conference on Research and Development Inspiring Technology for Humanity Scored 2017 Proceedings",
+      "date": "2017-07-02",
+      "citedBy": 30,
+      "doi": "10.1109/SCORED.2017.8305367"
+    },
+    {
+      "title": "ZnO Photoanode Effect on the Efficiency Performance of Organic Based Dye Sensitized Solar Cell",
+      "venue": "Iop Conference Series Materials Science and Engineering",
+      "date": "2017-06-27",
+      "citedBy": 21,
+      "doi": "10.1088/1757-899X/209/1/012028"
+    },
+    {
+      "title": "Indium (In) Effects to the Efficiency Performance of Ga1-XInxP/GaAs Based Solar Cell Using Silvaco Software Modelling & Simulation",
+      "venue": "Iop Conference Series Materials Science and Engineering",
+      "date": "2017-06-27",
+      "citedBy": 4,
+      "doi": "10.1088/1757-899X/209/1/012029"
+    },
+    {
+      "title": "Design and optimization of magnetic resonance coupling by using relay effect",
+      "venue": "2016 10th European Conference on Antennas and Propagation Eucap 2016",
+      "date": "2016-05-31",
+      "citedBy": 1,
+      "doi": "10.1109/EuCAP.2016.7481802"
+    },
+    {
+      "title": "The comparison between gallium arsenide and indium gallium arsenide as materials for solar cell performance using Silvaco application",
+      "venue": "Aip Conference Proceedings",
+      "date": "2015-05-15",
+      "citedBy": 3,
+      "doi": "10.1063/1.4915765"
+    },
+    {
+      "title": "Non-dominated sorting genetic algorithm in optimizing ninth order multiple feedback Chebyshev low pass filter",
+      "venue": "Aip Conference Proceedings",
+      "date": "2015-05-15",
+      "citedBy": 1,
+      "doi": "10.1063/1.4915791"
+    },
+    {
+      "title": "Fabrication and characterization of ZnO:In thin film as photoanode for DSSC using natural fruit dyes",
+      "venue": "Aip Conference Proceedings",
+      "date": "2015-05-15",
+      "citedBy": 14,
+      "doi": "10.1063/1.4915767"
+    },
+    {
+      "title": "Dye-sensitized solar cells using natural dyes as sensitizers from Malaysia local fruit 'Buah Mertajam'",
+      "venue": "Aip Conference Proceedings",
+      "date": "2015-05-15",
+      "citedBy": 7,
+      "doi": "10.1063/1.4915768"
+    },
+    {
+      "title": "GSM remote sensing for copper cable transmission line monitoring system using FPGA",
+      "venue": "2014 2nd International Conference on Electronic Design Iced 2014",
+      "date": "2014-01-01",
+      "citedBy": 6,
+      "doi": "10.1109/ICED.2014.7015842"
+    },
+    {
+      "title": "Ferroelectric and relaxor ferroelectric to paralectric transition based on Lead Magnesium Niobate (PMN) materials",
+      "venue": "Advanced Materials Research",
+      "date": "2013-10-29",
+      "citedBy": 5,
+      "doi": "10.4028/www.scientific.net/AMR.795.658"
+    },
+    {
+      "title": "Comparative study of natural anthocyanins compound as photovoltaic sensitizer",
+      "venue": "Advances in Environmental Biology",
+      "date": "2013-10-01",
+      "citedBy": 15,
+      "doi": ""
+    },
+    {
+      "title": "Development of dye-sensitized solar cell (DSSC) using patterned indium tin oxide (ITO) glass: Fabrication and testing of DSSC",
+      "venue": "Ceat 2013 2013 IEEE Conference on Clean Energy and Technology",
+      "date": "2013-01-01",
+      "citedBy": 14,
+      "doi": "10.1109/CEAT.2013.6775624"
+    },
+    {
+      "title": "A design of 5.2 GHz CMOS up-conversion mixer with if input active balun",
+      "venue": "Iswta 2011 2011 IEEE Symposium on Wireless Technology and Applications",
+      "date": "2011-12-21",
+      "citedBy": 8,
+      "doi": "10.1109/ISWTA.2011.6089539"
+    },
+    {
+      "title": "Design of a microstrip patch antenna using low temperature co-fired ceramic technology",
+      "venue": "2008 International Conference on Electronic Design Iced 2008",
+      "date": "2008-12-01",
+      "citedBy": 6,
+      "doi": "10.1109/ICED.2008.4786769"
+    }
+  ],
+  "license": "© Some rights reserved. This work permits academic research purposes only, distribution, and reproduction in any medium, provided the original author and source are credited. Data via Scopus / Elsevier."
+}
