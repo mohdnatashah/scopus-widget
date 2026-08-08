@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-07T15:11:20.925Z",
+  "generatedAt": "2026-08-08T04:18:01.813Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 584,
+    "citationCount": 586,
     "documentCount": 70
   },
   "publications": [
@@ -298,7 +298,7 @@
       "title": "Augmentation of the delamination factor in drilling of carbon fibre-reinforced polymer composites (CFRP)",
       "venue": "Polymers",
       "date": "2020-11-01",
-      "citedBy": 28,
+      "citedBy": 29,
       "doi": "10.3390/polym12112461"
     },
     {
@@ -382,7 +382,7 @@
       "title": "Recent improvements on TiO2 and ZnO nanostructure photoanode for dye sensitized solar cells: A brief review",
       "venue": "EPJ Web of Conferences",
       "date": "2017-11-22",
-      "citedBy": 20,
+      "citedBy": 21,
       "doi": "10.1051/epjconf/201716201045"
     },
     {
