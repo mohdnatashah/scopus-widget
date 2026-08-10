@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-08T04:18:01.813Z",
+  "generatedAt": "2026-08-10T15:32:21.505Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 586,
+    "citationCount": 587,
     "documentCount": 70
   },
   "publications": [
@@ -116,7 +116,7 @@
       "title": "Copper doping effect in the back surface field layer of CdTe thin film solar cells",
       "venue": "Alexandria Engineering Journal",
       "date": "2024-02-01",
-      "citedBy": 14,
+      "citedBy": 15,
       "doi": "10.1016/j.aej.2024.01.020"
     },
     {
