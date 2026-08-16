@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-08-15T13:39:45.854Z",
+  "generatedAt": "2026-08-16T03:16:08.597Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 588,
+    "citationCount": 589,
     "documentCount": 70
   },
   "publications": [
@@ -466,7 +466,7 @@
       "title": "Ferroelectric and relaxor ferroelectric to paralectric transition based on Lead Magnesium Niobate (PMN) materials",
       "venue": "Advanced Materials Research",
       "date": "2013-10-29",
-      "citedBy": 5,
+      "citedBy": 6,
       "doi": "10.4028/www.scientific.net/AMR.795.658"
     },
     {
