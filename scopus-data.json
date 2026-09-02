@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-02T00:14:29.331Z",
+  "generatedAt": "2026-09-02T12:12:20.684Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 592,
+    "citationCount": 594,
     "documentCount": 70
   },
   "publications": [
@@ -130,7 +130,7 @@
       "title": "Integrating local and global information to identify influential nodes in complex networks",
       "venue": "Scientific Reports",
       "date": "2023-12-01",
-      "citedBy": 48,
+      "citedBy": 50,
       "doi": "10.1038/s41598-023-37570-7"
     },
     {
