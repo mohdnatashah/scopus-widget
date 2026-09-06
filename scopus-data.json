@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-06T00:15:18.991Z",
+  "generatedAt": "2026-09-06T14:54:39.831Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 594,
+    "citationCount": 596,
     "documentCount": 70
   },
   "publications": [
@@ -214,7 +214,7 @@
       "title": "Analysis of Symmetric Two and Four-coil Magnetic Resonant Coupling Wireless Power Transfer",
       "venue": "Applied Computational Electromagnetics Society Journal",
       "date": "2022-04-01",
-      "citedBy": 5,
+      "citedBy": 6,
       "doi": "10.13052/2022.ACES.J.370415"
     },
     {
@@ -333,7 +333,7 @@
       "title": "Fabrication and thermoelectric property of Bi0.88Sb0.12/InSb eutectic alloy by melt spinning and spark plasma sintering",
       "venue": "Materials Transactions",
       "date": "2019-01-01",
-      "citedBy": 5,
+      "citedBy": 6,
       "doi": "10.2320/matertrans.M2018383"
     },
     {
