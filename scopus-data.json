@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-13T15:35:46.677Z",
+  "generatedAt": "2026-09-14T03:19:40.082Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 599,
-    "documentCount": 70
+    "citationCount": 600,
+    "documentCount": 71
   },
   "publications": [
     {
@@ -34,6 +34,13 @@
       "date": "2026-01-22",
       "citedBy": 0,
       "doi": "10.1117/12.3097565"
+    },
+    {
+      "title": "Strategic Overview of AI and Industry 4.0 in Malaysia: Transforming Industry and Innovation",
+      "venue": "Entrepreneurial Resilience Sustainability and Digital Transformation",
+      "date": "2026-01-01",
+      "citedBy": 0,
+      "doi": "10.4018/979-8-2600-3535-1.ch007"
     },
     {
       "title": "Experimental investigation and predictive modelling of CO2 laser processing of wood-plastic composites (WPCs)",
@@ -158,7 +165,7 @@
       "title": "Recent Advances in Synthesis of Graphite from Agricultural Bio-Waste Material: A Review",
       "venue": "Materials",
       "date": "2023-05-01",
-      "citedBy": 65,
+      "citedBy": 66,
       "doi": "10.3390/ma16093601"
     },
     {
