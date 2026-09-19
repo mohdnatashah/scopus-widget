@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T15:48:20.801Z",
+  "generatedAt": "2026-09-19T03:05:14.134Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 599,
+    "citationCount": 596,
     "documentCount": 70
   },
   "publications": [
@@ -130,7 +130,7 @@
       "title": "Integrating local and global information to identify influential nodes in complex networks",
       "venue": "Scientific Reports",
       "date": "2023-12-01",
-      "citedBy": 52,
+      "citedBy": 50,
       "doi": "10.1038/s41598-023-37570-7"
     },
     {
@@ -193,7 +193,7 @@
       "title": "Enhancement of Power Conversion Efficiency with Zinc Oxide as Photoanode and Cyanococcus, Punica granatum L., and Vitis vinifera as Natural Fruit Dyes for Dye-Sensitized Solar Cells",
       "venue": "Coatings",
       "date": "2022-11-01",
-      "citedBy": 12,
+      "citedBy": 11,
       "doi": "10.3390/coatings12111781"
     },
     {
