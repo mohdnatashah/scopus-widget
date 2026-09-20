@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T03:21:18.894Z",
+  "generatedAt": "2026-09-20T15:25:11.886Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 596,
+    "citationCount": 597,
     "documentCount": 70
   },
   "publications": [
@@ -123,7 +123,7 @@
       "title": "Visible Light-Assisted Charge Extraction in High-Band-Gap SrTiO3 through the Integration of a Triplet Sensitizer-Emitter Thin Film",
       "venue": "ACS Applied Energy Materials",
       "date": "2024-01-22",
-      "citedBy": 3,
+      "citedBy": 4,
       "doi": "10.1021/acsaem.3c02971"
     },
     {
