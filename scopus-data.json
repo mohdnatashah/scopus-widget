@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-25T16:30:27.413Z",
+  "generatedAt": "2026-09-26T03:28:40.815Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 598,
-    "documentCount": 70
+    "citationCount": 602,
+    "documentCount": 71
   },
   "publications": [
     {
@@ -36,6 +36,13 @@
       "doi": "10.1117/12.3097565"
     },
     {
+      "title": "Strategic Overview of AI and Industry 4.0 in Malaysia: Transforming Industry and Innovation",
+      "venue": "Entrepreneurial Resilience Sustainability and Digital Transformation",
+      "date": "2026-01-01",
+      "citedBy": 0,
+      "doi": "10.4018/979-8-2600-3535-1.ch007"
+    },
+    {
       "title": "Experimental investigation and predictive modelling of CO2 laser processing of wood-plastic composites (WPCs)",
       "venue": "Results in Engineering",
       "date": "2025-09-01",
@@ -46,7 +53,7 @@
       "title": "Optimization and Validation of CO2 Laser-Machining Parameters for Wood–Plastic Composites (WPCs)",
       "venue": "Polymers",
       "date": "2025-08-01",
-      "citedBy": 4,
+      "citedBy": 5,
       "doi": "10.3390/polym17162216"
     },
     {
@@ -130,7 +137,7 @@
       "title": "Integrating local and global information to identify influential nodes in complex networks",
       "venue": "Scientific Reports",
       "date": "2023-12-01",
-      "citedBy": 50,
+      "citedBy": 52,
       "doi": "10.1038/s41598-023-37570-7"
     },
     {
@@ -193,7 +200,7 @@
       "title": "Enhancement of Power Conversion Efficiency with Zinc Oxide as Photoanode and Cyanococcus, Punica granatum L., and Vitis vinifera as Natural Fruit Dyes for Dye-Sensitized Solar Cells",
       "venue": "Coatings",
       "date": "2022-11-01",
-      "citedBy": 11,
+      "citedBy": 12,
       "doi": "10.3390/coatings12111781"
     },
     {
