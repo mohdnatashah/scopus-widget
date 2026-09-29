@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T19:13:27.775Z",
+  "generatedAt": "2026-09-29T04:10:41.126Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 603,
+    "citationCount": 604,
     "documentCount": 71
   },
   "publications": [
@@ -417,7 +417,7 @@
       "title": "ZnO Photoanode Effect on the Efficiency Performance of Organic Based Dye Sensitized Solar Cell",
       "venue": "Iop Conference Series Materials Science and Engineering",
       "date": "2017-06-27",
-      "citedBy": 21,
+      "citedBy": 22,
       "doi": "10.1088/1757-899X/209/1/012028"
     },
     {
