@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T17:26:19.980Z",
+  "generatedAt": "2026-10-03T03:45:50.808Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 604,
+    "citationCount": 605,
     "documentCount": 71
   },
   "publications": [
@@ -165,7 +165,7 @@
       "title": "Recent Advances in Synthesis of Graphite from Agricultural Bio-Waste Material: A Review",
       "venue": "Materials",
       "date": "2023-05-01",
-      "citedBy": 66,
+      "citedBy": 67,
       "doi": "10.3390/ma16093601"
     },
     {
