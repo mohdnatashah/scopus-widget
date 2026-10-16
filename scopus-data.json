@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T16:17:26.385Z",
+  "generatedAt": "2026-10-16T03:05:07.365Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 606,
+    "citationCount": 607,
     "documentCount": 71
   },
   "publications": [
@@ -179,7 +179,7 @@
       "title": "Near-Infrared (NIR) Silver Sulfide (Ag2S) Semiconductor Photocatalyst Film for Degradation of Methylene Blue Solution",
       "venue": "Materials",
       "date": "2023-01-01",
-      "citedBy": 19,
+      "citedBy": 20,
       "doi": "10.3390/ma16010437"
     },
     {
