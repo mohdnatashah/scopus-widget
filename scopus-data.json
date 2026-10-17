@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-16T16:03:27.734Z",
+  "generatedAt": "2026-10-17T02:57:31.580Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 607,
+    "citationCount": 609,
     "documentCount": 71
   },
   "publications": [
@@ -165,7 +165,7 @@
       "title": "Recent Advances in Synthesis of Graphite from Agricultural Bio-Waste Material: A Review",
       "venue": "Materials",
       "date": "2023-05-01",
-      "citedBy": 67,
+      "citedBy": 68,
       "doi": "10.3390/ma16093601"
     },
     {
@@ -333,7 +333,7 @@
       "title": "Fabrication and thermoelectric property of nanostructured Si/Cr0.8Mn0.2Si2 eutectic alloy by melt-spinning",
       "venue": "Materials Research Express",
       "date": "2019-01-01",
-      "citedBy": 2,
+      "citedBy": 3,
       "doi": "10.1088/2053-1591/aaee98"
     },
     {
