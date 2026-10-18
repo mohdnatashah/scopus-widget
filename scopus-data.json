@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-17T14:55:58.389Z",
+  "generatedAt": "2026-10-18T02:58:54.103Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 609,
+    "citationCount": 611,
     "documentCount": 71
   },
   "publications": [
@@ -137,7 +137,7 @@
       "title": "Integrating local and global information to identify influential nodes in complex networks",
       "venue": "Scientific Reports",
       "date": "2023-12-01",
-      "citedBy": 52,
+      "citedBy": 53,
       "doi": "10.1038/s41598-023-37570-7"
     },
     {
@@ -263,7 +263,7 @@
       "title": "Life cycle assessment (Lca) of particleboard: Investigation of the environmental parameters",
       "venue": "Polymers",
       "date": "2021-07-01",
-      "citedBy": 17,
+      "citedBy": 18,
       "doi": "10.3390/polym13132043"
     },
     {
