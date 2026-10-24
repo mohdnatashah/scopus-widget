@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-23T16:26:35.585Z",
+  "generatedAt": "2026-10-24T03:14:16.759Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 613,
+    "citationCount": 614,
     "documentCount": 71
   },
   "publications": [
@@ -151,7 +151,7 @@
       "title": "Synergistic effect of agarose biopolymer gel electrolyte with modified TiO2 for low-cost electrochemical device applications",
       "venue": "Polymer Bulletin",
       "date": "2023-09-01",
-      "citedBy": 8,
+      "citedBy": 9,
       "doi": "10.1007/s00289-022-04524-4"
     },
     {
