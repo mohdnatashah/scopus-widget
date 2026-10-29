@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-28T17:52:50.927Z",
+  "generatedAt": "2026-10-29T04:19:56.336Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 614,
+    "citationCount": 615,
     "documentCount": 71
   },
   "publications": [
@@ -361,7 +361,7 @@
       "title": "The Nanometer-Sized Eutectic Structure of Si/CrSi2 Thermoelectric Materials Fabricated by Rapid Solidification",
       "venue": "Journal of Electronic Materials",
       "date": "2018-04-01",
-      "citedBy": 21,
+      "citedBy": 22,
       "doi": "10.1007/s11664-017-6060-1"
     },
     {
