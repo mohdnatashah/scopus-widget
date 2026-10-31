@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-30T17:42:04.597Z",
+  "generatedAt": "2026-10-31T03:59:30.763Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 616,
+    "citationCount": 617,
     "documentCount": 71
   },
   "publications": [
@@ -410,7 +410,7 @@
       "title": "Short review: Natural pigments photosensitizer for dye-sensitized solar cell (DSSC)",
       "venue": "IEEE Student Conference on Research and Development Inspiring Technology for Humanity Scored 2017 Proceedings",
       "date": "2017-07-02",
-      "citedBy": 30,
+      "citedBy": 31,
       "doi": "10.1109/SCORED.2017.8305367"
     },
     {
