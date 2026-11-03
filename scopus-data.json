@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-02T21:23:05.300Z",
+  "generatedAt": "2026-11-03T05:18:44.319Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 618,
+    "citationCount": 619,
     "documentCount": 71
   },
   "publications": [
@@ -326,7 +326,7 @@
       "title": "Synthesis of alumina nanoparticles by sol-gel method and their applications in the removal of copper ions (Cu2+) from the solution",
       "venue": "Iop Conference Series Materials Science and Engineering",
       "date": "2019-01-01",
-      "citedBy": 44,
+      "citedBy": 45,
       "doi": "10.1088/1757-899X/701/1/012034"
     },
     {
