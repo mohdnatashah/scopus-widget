@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-13T19:11:31.717Z",
+  "generatedAt": "2026-11-14T04:53:33.834Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 624,
+    "citationCount": 628,
     "documentCount": 71
   },
   "publications": [
@@ -172,14 +172,14 @@
       "title": "Controlling the Layer Thickness of Zinc Oxide Photoanode and the Dye-Soaking Time for an Optimal-Efficiency Dye-Sensitized Solar Cell",
       "venue": "Coatings",
       "date": "2023-01-01",
-      "citedBy": 13,
+      "citedBy": 14,
       "doi": "10.3390/coatings13010020"
     },
     {
       "title": "Near-Infrared (NIR) Silver Sulfide (Ag2S) Semiconductor Photocatalyst Film for Degradation of Methylene Blue Solution",
       "venue": "Materials",
       "date": "2023-01-01",
-      "citedBy": 20,
+      "citedBy": 21,
       "doi": "10.3390/ma16010437"
     },
     {
@@ -263,7 +263,7 @@
       "title": "Life cycle assessment (Lca) of particleboard: Investigation of the environmental parameters",
       "venue": "Polymers",
       "date": "2021-07-01",
-      "citedBy": 18,
+      "citedBy": 19,
       "doi": "10.3390/polym13132043"
     },
     {
@@ -298,7 +298,7 @@
       "title": "Effect of indium pre-flow on wavelength shift and crystal structure of deep green light emitting diodes",
       "venue": "Optical Materials Express",
       "date": "2021-01-01",
-      "citedBy": 7,
+      "citedBy": 8,
       "doi": "10.1364/OME.413417"
     },
     {
