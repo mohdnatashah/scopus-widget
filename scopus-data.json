@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-20T19:36:25.212Z",
+  "generatedAt": "2026-11-21T05:35:35.483Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 628,
+    "citationCount": 629,
     "documentCount": 71
   },
   "publications": [
@@ -347,7 +347,7 @@
       "title": "Design of RF to DC conversion circuit for energy harvesting in CMOS 0.13-μm technology",
       "venue": "Aip Conference Proceedings",
       "date": "2018-12-06",
-      "citedBy": 9,
+      "citedBy": 10,
       "doi": "10.1063/1.5080902"
     },
     {
