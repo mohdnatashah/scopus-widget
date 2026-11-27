@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-26T20:54:12.179Z",
+  "generatedAt": "2026-11-27T06:40:42.779Z",
   "authorId": "57226822517",
   "summary": {
     "hIndex": 14,
-    "citationCount": 629,
+    "citationCount": 630,
     "documentCount": 71
   },
   "publications": [
@@ -305,7 +305,7 @@
       "title": "Augmentation of the delamination factor in drilling of carbon fibre-reinforced polymer composites (CFRP)",
       "venue": "Polymers",
       "date": "2020-11-01",
-      "citedBy": 29,
+      "citedBy": 30,
       "doi": "10.3390/polym12112461"
     },
     {
